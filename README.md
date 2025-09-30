@@ -1,2 +1,2 @@
-# Adaptive-Wildlife-Management-System-For-crop-Protection-Leveraging-Edge-Computing-And-Deep-Learning-
-Adaptive Wildlife Management System leveraging Edge Computing and Deep Learning to protect crops from animal intrusions. It enables real-time detection, classification, and instant alerts with low-latency processing, helping farmers reduce crop losses and ensure sustainable agriculture.
+# OpenCV-Object-Detection <img src="https://skillicons.dev/icons?i=python"/>
+Real time object detection using Computer Vision and the OpenCV library
