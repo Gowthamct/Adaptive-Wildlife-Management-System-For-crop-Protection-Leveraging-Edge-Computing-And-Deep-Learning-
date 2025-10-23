@@ -3,7 +3,6 @@ Real time object detection using Computer Vision and the OpenCV library
 
 🌾 Adaptive Wildlife Management System for Crop Protection Leveraging Edge Computing and Deep Learning
 
-
 📘 Abstract
 
 Agriculture today faces significant crop losses due to wildlife intrusions. Traditional methods such as fencing, night guarding, and chemical repellents are either ineffective or environmentally harmful. This project presents an"AI-based adaptive wildlife management system" that leverages **Edge Computing** and **Deep Learning** for real-time animal detection and deterrence. Using **Temporal Convolutional Networks (TCN)** and a custom **WildNet model**, the system identifies animal species through computer vision and triggers **species-specific ultrasound emissions** to repel them safely. The solution provides real-time alerts, SMS notifications, and a web interface for farmers, ensuring minimal crop damage and ethical wildlife management.
